@@ -17,3 +17,12 @@ ssh-keygen -Y verify \
 Expected result:
 
 Good "file" signature for openwire
+
+To verify (PowerShell):
+
+Get-Content simforia-boundary-v2.txt -Raw |
+ssh-keygen -Y verify `
+  -f allowed_signers `
+  -I openwire `
+  -n file `
+  -s simforia-boundary-v2.txt.sig
