@@ -1,0 +1,19 @@
+SIMFORIA OPENWIRE BOUNDARY PROOF (v2)
+
+Project: Simforia OpenWire OSINT Ops
+Domain: simforia.com
+Repository: github.com/simforia/openwire-boundary-proof
+
+This statement anchors the operational identity, authorship continuity,
+and hardened instruction integrity of the Simforia OpenWire OSINT
+simulation framework.
+
+This proof establishes continuity between prior Simforia boundary
+verification artifacts and the OpenWire GPT release state, including
+instruction hardening, simulation containment, and authorship identity.
+
+This document is intentionally minimal and serves only as a
+cryptographic provenance marker rather than a disclosure of design,
+architecture, or operational methodology.
+
+Timestamp: 2026
