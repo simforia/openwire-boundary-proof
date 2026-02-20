@@ -1,0 +1,5 @@
+SIMFORIA boundary artifact v1
+Domain: simforia.com
+Artifact: public boundary endpoint
+Reference: https://chatgpt.com/g/g-6918dbfb7ba08191a6b692ff4952d745
+Timestamp: 2025-02-14T00:00:00Z
